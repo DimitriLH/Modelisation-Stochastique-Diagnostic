@@ -1,2 +1,2 @@
 # Diagnostic
-Projet de la matière : Modèle Stochastique
+Projet de la matière : Modèlisation Stochastique
